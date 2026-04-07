@@ -1,0 +1,10 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "author": "Jordan Schwartzman",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.21.0",
+    "redis": "^4.7.0"
+  }
+}
